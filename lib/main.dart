@@ -137,7 +137,7 @@ class HomeScreen extends StatelessWidget {
 
                   const SizedBox(height: 30),
 
-                  const Center(
+                  Center(
                     child: ConstrainedBox(
                       constraints: BoxConstraints(maxWidth: 750),
                       child: Text(
